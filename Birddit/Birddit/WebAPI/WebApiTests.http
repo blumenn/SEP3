@@ -1,0 +1,7 @@
+﻿POST https://localhost:7092/auth/login
+Content-Type: application/json
+
+{ "Username" : "qwerty", "Password" : "qwerty" }
+
+
+

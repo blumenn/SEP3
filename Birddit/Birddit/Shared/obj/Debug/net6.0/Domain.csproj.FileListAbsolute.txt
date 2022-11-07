@@ -1,0 +1,60 @@
+C:\Users\benja\RiderProjects\WebAPI\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\benja\RiderProjects\WebAPI\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\benja\RiderProjects\WebAPI\Domain\bin\Debug\net6.0\ref\Domain.dll
+C:\Users\benja\RiderProjects\WebAPI\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\benja\RiderProjects\WebAPI\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\benja\RiderProjects\WebAPI\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\RiderProjects\WebAPI\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\benja\RiderProjects\WebAPI\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\benja\RiderProjects\WebAPI\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\benja\RiderProjects\WebAPI\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\benja\RiderProjects\WebAPI\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\benja\RiderProjects\WebAPI\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\Domain\bin\Debug\net6.0\ref\Domain.dll
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\wille\RiderProjects\Solution2\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\wille\RiderProjects\Solution2\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\wille\RiderProjects\Solution2\Domain\bin\Debug\net6.0\ref\Domain.dll
+C:\Users\wille\RiderProjects\Solution2\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\wille\RiderProjects\Solution2\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\wille\RiderProjects\Solution2\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wille\RiderProjects\Solution2\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\wille\RiderProjects\Solution2\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\wille\RiderProjects\Solution2\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\wille\RiderProjects\Solution2\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\wille\RiderProjects\Solution2\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\wille\RiderProjects\Solution2\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\wille\RiderProjects\Solution2 API\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\wille\RiderProjects\Solution2 API\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\wille\RiderProjects\Solution2 API\Domain\bin\Debug\net6.0\ref\Domain.dll
+C:\Users\wille\RiderProjects\Solution2 API\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\wille\RiderProjects\Solution2 API\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\wille\RiderProjects\Solution2 API\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wille\RiderProjects\Solution2 API\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\wille\RiderProjects\Solution2 API\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\wille\RiderProjects\Solution2 API\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\wille\RiderProjects\Solution2 API\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\wille\RiderProjects\Solution2 API\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\wille\RiderProjects\Solution2 API\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\wille\RiderProjects\Birddit\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\wille\RiderProjects\Birddit\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\wille\RiderProjects\Birddit\Domain\bin\Debug\net6.0\ref\Domain.dll
+C:\Users\wille\RiderProjects\Birddit\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\wille\RiderProjects\Birddit\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\wille\RiderProjects\Birddit\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wille\RiderProjects\Birddit\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\wille\RiderProjects\Birddit\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\wille\RiderProjects\Birddit\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\wille\RiderProjects\Birddit\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\wille\RiderProjects\Birddit\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\wille\RiderProjects\Birddit\Domain\obj\Debug\net6.0\Domain.pdb

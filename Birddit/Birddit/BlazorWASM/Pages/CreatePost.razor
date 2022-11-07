@@ -1,0 +1,82 @@
+﻿@page "/CreatePost"
+@using global::Shared.DTOs
+@using HTTPClients.ClientInterfaces
+@using System.Security.Claims
+@inject IPostService postService
+@inject IUserService userService
+@attribute [Authorize]
+
+<div class="card">
+    <h3>CreatePost</h3>
+    <div class="form-group field">
+        <label>Title:</label>
+        <input type="text" @bind="postTitle"/>
+    </div>
+    <div class="form-group field">
+        <label>Body:</label>
+        <input type="text" @bind="postBody"/>
+    </div>
+    <div class="button-row">
+        @if (!string.IsNullOrEmpty(msg))
+        {
+            <label style="color: @color">@msg</label>
+        }
+        <button @onclick="Create" class="acceptbtn">Create</button>
+    </div>
+</div>
+
+@code {
+    private string postTitle = "";
+    private string postBody = "";
+
+    private string msg = "";
+    private string color = "";
+    
+    [CascadingParameter]
+    public Task<AuthenticationState> AuthState { get; set; } = null!;
+
+    private IEnumerable<Claim>? userClaims;
+    private bool isLoggedIn;
+    private int userId = 1;
+
+    protected override async Task OnInitializedAsync()
+    {
+        AuthenticationState authState = await AuthState;
+        ClaimsPrincipal user = authState.User;
+        isLoggedIn = user.Identity != null;
+        
+        if (!isLoggedIn) return;
+        
+        userClaims = user.Claims;
+        userId = Convert.ToInt32(user.Claims.First(claim => claim.Type.Equals("Id")).Value);
+    }
+
+    private async Task Create()
+    {
+        msg = "";
+        if (string.IsNullOrEmpty(postTitle))
+        {
+            msg = "Title cannot be empty!";
+            color = "red";
+        }
+        msg = "";
+        if (string.IsNullOrEmpty(postTitle))
+        {
+            msg = "Title cannot be empty!";
+            color = "red";
+        }
+        try
+        {
+            PostCreationDTO dto = new(userId, postTitle, postBody);
+            await postService.CreateAsync(dto);
+            msg = "Post created successfully!";
+            color = "green";
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+            msg = e.Message;
+        }
+    }
+
+}

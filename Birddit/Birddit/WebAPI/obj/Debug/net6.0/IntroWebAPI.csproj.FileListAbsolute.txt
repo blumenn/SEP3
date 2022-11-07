@@ -1,0 +1,169 @@
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.exe
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.deps.json
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.runtimeconfig.json
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.dll
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\bin\Debug\net6.0\ref\IntroWebAPI.dll
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.pdb
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.csproj.AssemblyReference.cache
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.AssemblyInfoInputs.cache
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.AssemblyInfo.cs
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\obj\Debug\net6.0\scopedcss\bundle\IntroWebAPI.styles.css
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.csproj.CopyComplete
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.dll
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\obj\Debug\net6.0\ref\IntroWebAPI.dll
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.pdb
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.genruntimeconfig.cache
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\bin\Debug\net6.0\Application.dll
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\bin\Debug\net6.0\Domain.dll
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\bin\Debug\net6.0\FileData.dll
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\bin\Debug\net6.0\Application.pdb
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\bin\Debug\net6.0\FileData.pdb
+C:\Users\benja\RiderProjects\WebAPI\IntroWebAPI\bin\Debug\net6.0\Domain.pdb
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\bin\Debug\net6.0\data.json
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.exe
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.deps.json
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.runtimeconfig.json
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.dll
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\bin\Debug\net6.0\ref\IntroWebAPI.dll
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.pdb
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\bin\Debug\net6.0\Application.dll
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\bin\Debug\net6.0\Domain.dll
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\bin\Debug\net6.0\FileData.dll
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\bin\Debug\net6.0\Application.pdb
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\bin\Debug\net6.0\FileData.pdb
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\bin\Debug\net6.0\Domain.pdb
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.csproj.AssemblyReference.cache
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.AssemblyInfoInputs.cache
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.AssemblyInfo.cs
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\obj\Debug\net6.0\scopedcss\bundle\IntroWebAPI.styles.css
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.csproj.CopyComplete
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.dll
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\obj\Debug\net6.0\ref\IntroWebAPI.dll
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.pdb
+C:\Users\wille\OneDrive\Skrivebord\WebAPI\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.genruntimeconfig.cache
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\bin\Debug\net6.0\data.json
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.exe
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.deps.json
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.runtimeconfig.json
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.dll
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\bin\Debug\net6.0\ref\IntroWebAPI.dll
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.pdb
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\bin\Debug\net6.0\Application.dll
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\bin\Debug\net6.0\Domain.dll
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\bin\Debug\net6.0\FileData.dll
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\bin\Debug\net6.0\Application.pdb
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\bin\Debug\net6.0\FileData.pdb
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\bin\Debug\net6.0\Domain.pdb
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.csproj.AssemblyReference.cache
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.AssemblyInfoInputs.cache
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.AssemblyInfo.cs
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\obj\Debug\net6.0\scopedcss\bundle\IntroWebAPI.styles.css
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.csproj.CopyComplete
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.dll
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\obj\Debug\net6.0\ref\IntroWebAPI.dll
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.pdb
+C:\Users\wille\RiderProjects\Solution2\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.genruntimeconfig.cache
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\bin\Debug\net6.0\data.json
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.exe
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.deps.json
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.runtimeconfig.json
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.dll
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\bin\Debug\net6.0\ref\IntroWebAPI.dll
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.pdb
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\bin\Debug\net6.0\Application.dll
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\bin\Debug\net6.0\Domain.dll
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\bin\Debug\net6.0\FileData.dll
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\bin\Debug\net6.0\Application.pdb
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\bin\Debug\net6.0\FileData.pdb
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\bin\Debug\net6.0\Domain.pdb
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.csproj.AssemblyReference.cache
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.AssemblyInfoInputs.cache
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.AssemblyInfo.cs
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\obj\Debug\net6.0\scopedcss\bundle\IntroWebAPI.styles.css
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.csproj.CopyComplete
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.dll
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\obj\Debug\net6.0\ref\IntroWebAPI.dll
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.pdb
+C:\Users\wille\RiderProjects\Solution2 API\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.genruntimeconfig.cache
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\bin\Debug\net6.0\data.json
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.exe
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.deps.json
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.runtimeconfig.json
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.dll
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\bin\Debug\net6.0\ref\IntroWebAPI.dll
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.pdb
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\bin\Debug\net6.0\Application.dll
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\bin\Debug\net6.0\FileData.dll
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\bin\Debug\net6.0\Shared.dll
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\bin\Debug\net6.0\Application.pdb
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\bin\Debug\net6.0\FileData.pdb
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\bin\Debug\net6.0\Shared.pdb
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.csproj.AssemblyReference.cache
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.AssemblyInfoInputs.cache
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.AssemblyInfo.cs
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\obj\Debug\net6.0\scopedcss\bundle\IntroWebAPI.styles.css
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.csproj.CopyComplete
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.dll
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\obj\Debug\net6.0\ref\IntroWebAPI.dll
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.pdb
+C:\Users\wille\RiderProjects\Birddit\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.genruntimeconfig.cache
