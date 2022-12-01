@@ -1,0 +1,67 @@
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/bin/Debug/net6.0/appsettings.json
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/bin/Debug/net6.0/IntroWebAPI
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/bin/Debug/net6.0/IntroWebAPI.deps.json
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/bin/Debug/net6.0/IntroWebAPI.runtimeconfig.json
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/bin/Debug/net6.0/IntroWebAPI.dll
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/bin/Debug/net6.0/IntroWebAPI.pdb
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/bin/Debug/net6.0/Application.dll
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/bin/Debug/net6.0/Domain.dll
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/bin/Debug/net6.0/FileData.dll
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/bin/Debug/net6.0/Application.pdb
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/bin/Debug/net6.0/FileData.pdb
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/bin/Debug/net6.0/Domain.pdb
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/obj/Debug/net6.0/IntroWebAPI.csproj.AssemblyReference.cache
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/obj/Debug/net6.0/IntroWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/obj/Debug/net6.0/IntroWebAPI.AssemblyInfoInputs.cache
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/obj/Debug/net6.0/IntroWebAPI.AssemblyInfo.cs
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/obj/Debug/net6.0/IntroWebAPI.csproj.CoreCompileInputs.cache
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/obj/Debug/net6.0/IntroWebAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/obj/Debug/net6.0/IntroWebAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/obj/Debug/net6.0/scopedcss/bundle/IntroWebAPI.styles.css
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/obj/Debug/net6.0/IntroWebAPI.csproj.CopyComplete
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/obj/Debug/net6.0/IntroWebAPI.dll
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/obj/Debug/net6.0/refint/IntroWebAPI.dll
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/obj/Debug/net6.0/IntroWebAPI.pdb
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/obj/Debug/net6.0/IntroWebAPI.genruntimeconfig.cache
+/Users/raabeenparameswaran/RiderProjects/Semester Projekt 3/IntroWebAPI/obj/Debug/net6.0/ref/IntroWebAPI.dll
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.exe
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.dll
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\bin\Debug\net6.0\Application.dll
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\bin\Debug\net6.0\Domain.dll
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\bin\Debug\net6.0\FileData.dll
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\bin\Debug\net6.0\data.json
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.deps.json
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.runtimeconfig.json
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\bin\Debug\net6.0\ref\IntroWebAPI.dll
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\bin\Debug\net6.0\IntroWebAPI.pdb
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\bin\Debug\net6.0\Application.pdb
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\bin\Debug\net6.0\FileData.pdb
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\bin\Debug\net6.0\Domain.pdb
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.csproj.AssemblyReference.cache
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.AssemblyInfoInputs.cache
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.AssemblyInfo.cs
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\obj\Debug\net6.0\scopedcss\bundle\IntroWebAPI.styles.css
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.csproj.CopyComplete
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.dll
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\obj\Debug\net6.0\ref\IntroWebAPI.dll
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.pdb
+C:\Users\ander\Documents\GitHub\SEP3\IntroWebAPI\obj\Debug\net6.0\IntroWebAPI.genruntimeconfig.cache
